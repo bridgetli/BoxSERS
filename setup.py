@@ -16,7 +16,7 @@ setup(
     description='Python package that provides a full range of functionality to process and analyze vibrational'
                 ' spectra (Raman, SERS, FTIR, etc.).',
     # We will also need a readme eventually (there will be a warning)
-    long_description=open('README_pypi.md').read(),
+    long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
     classifiers=[
         "Programming Language :: Python :: 3",
